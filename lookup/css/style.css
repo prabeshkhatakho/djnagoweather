@@ -1,0 +1,5 @@
+.btn btn-outline-secondary {
+    color: blue !important; /* Example of using !important */
+    background-color: red;
+    height: 300px;
+}
